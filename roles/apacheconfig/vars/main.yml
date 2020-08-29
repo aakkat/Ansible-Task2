@@ -1,0 +1,6 @@
+---
+# vars file for apacheconfig
+
+package_name: "httpd"
+git_repo: "https://github.com/aakkat/Ansible-Task2.git"
+website: "/var/www/html"

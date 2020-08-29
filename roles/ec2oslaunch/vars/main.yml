@@ -1,0 +1,9 @@
+---
+# vars file for ec2oslaunch
+aws_instance_type: "t2.micro"
+ami_id: "ami-0b5bff6d9495eff69"
+aws_instance_tags: "Ansible_task2"
+subnet_id: "subnet-ff91e6b3"
+aws_region: "ap-south-1"
+security_group_id: "sg-aab92acf"
+
