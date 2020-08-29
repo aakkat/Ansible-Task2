@@ -1,0 +1,5 @@
+- hosts: localhost
+  vars_files:
+    - /etc/roles/ec2oslaunch/vars/secure.yml
+  roles:
+    - role: ec2oslaunch
